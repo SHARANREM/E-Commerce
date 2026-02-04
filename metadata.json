@@ -1,0 +1,6 @@
+
+{
+  "name": "NexusCart - Modern E-Commerce",
+  "description": "A comprehensive e-commerce platform with real-time Firebase integration, featuring product management, persistent cart synchronization, role-based admin dashboard, and secure order tracking.",
+  "requestFramePermissions": []
+}
